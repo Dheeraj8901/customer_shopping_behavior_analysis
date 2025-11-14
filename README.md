@@ -19,7 +19,6 @@ The dataset used for this project is **customer_shopping_behavior.csv**, which c
 - Purchase amounts
 - Modes of shopping
 - Payment methods
-- Shopping locations
 - Date of purchase
 
 The dataset was analyzed to identify spending patterns, category preferences, seasonal trends, and customer tendencies.
@@ -78,7 +77,6 @@ Queries included:
 - Category-wise spending
 - Top customers by total purchase
 - Monthly sales trends using GROUP BY
-- RFM-style segmentation logic
 - Purchase behavior by gender or age group
 - High-value vs. low-value customer distribution
 
@@ -86,7 +84,7 @@ Queries included:
 
 A fully interactive Power BI dashboard was created to visualize:
 
-- Key KPIs (Total Sales, Total Orders, Average Basket Size)
+- Key KPIs (Total Sales, Total Orders)
 - Category-wise performance
 - Customer demographic breakdown
 - Month-over-month sales trends
@@ -114,5 +112,5 @@ A clean, modern presentation was built using Gamma to showcase:
 - Key visuals
 - Insights
 
----
+
 
