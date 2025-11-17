@@ -1,5 +1,5 @@
 # customer_shopping_behavior_analysis
-# An end-toend project showcasing how customer behavior analysis is done by using Python, SQL ,and powerBI.
+# An end-to end project showcasing how customer behavior analysis is done by using Python, SQL ,and powerBI.
 ## 📊 **Customer Shopping Behavior Analysis**
 
  **Overview**
